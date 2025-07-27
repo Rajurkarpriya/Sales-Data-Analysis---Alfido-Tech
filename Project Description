@@ -1,0 +1,44 @@
+📊 Sales Data Cleaning & Analysis Dashboard
+🚀 My First Project at Alfido Tech – Built a Sales Performance Dashboard in Microsoft Excel to analyze revenue, growth, deal size, top products, and customer insights.
+
+📌 Project Overview
+This project is based on a sample retail sales dataset that includes order details, customer information, product data, shipping details, and sales figures.
+The goal was to clean the data, calculate key metrics, and create an interactive Excel dashboard to visualize sales performance.
+
+🛠 Technologies Used
+📄 Microsoft Excel – Data Cleaning, Analysis, and Dashboard Design
+
+📊 Pivot Tables & Slicers – For data summarization and filtering
+
+📈 Charts – Bar, Line, Pie, Donut Charts for visual insights
+
+🔢 Formulas – IF, DATE, SUBSTITUTE, TEXTJOIN, INDEX-MATCH, OFFSET
+
+🎯 KPI Cards – To highlight Total Revenue, Orders, Avg Deal Size, Growth Rate
+
+📊 Key Insights
+✅ Top-performing products and cities by sales 📦
+✅ Monthly revenue growth trends 📈
+✅ Average deal size per order 💰
+✅ Order status distribution (Shipped, On Hold, Cancelled) 📦
+✅ Dynamic Top Customers by Sales using a Scroll Bar 🔄
+
+🛠 How I Created the Dashboard
+✔ Cleaned raw data (fixed dates, standardized phone numbers, handled blanks, merged addresses)
+✔ Created calculated fields – Revenue, Growth Rate, Average Deal Size
+✔ Designed KPI Cards with conditional formatting
+✔ Built Pivot Tables, Slicers, and Interactive Charts
+✔ Added a scroll bar with OFFSET formula for dynamic top customer view
+
+📌 Outcomes & Impact
+✅ Built a fully interactive sales dashboard that helps track revenue trends, analyze customer behavior, and identify growth opportunities.
+✅ Gained hands-on experience in Excel-based analytics, KPI reporting, and dashboard creation.
+
+📂 Project Files
+📄 sales_data_sample.xlsx – Raw dataset
+📊 Sales_Dashboard.xlsx – Final dashboard with KPIs and charts
+🎥 Project Demo Video – Dashboard walkthrough
+
+⭐ If you found this project helpful, give it a star on GitHub!
+#ExcelDashboard #DataAnalytics #BusinessIntelligence #ExcelForDataAnalysis #DashboardDesign #KPI #DataVisualization #LearningByDoing #WomenInTech
+
